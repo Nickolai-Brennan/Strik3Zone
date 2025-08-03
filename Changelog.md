@@ -141,7 +141,43 @@ Here is your **ChangeLog for August 2, 2025**, in full **Markdown format with co
 
 ---
 
-```
+# Changelog
 
-Let me know if you’d like a downloadable `.md` version or want this added to your book repo. I can also create a **companion README** for the `changelog/` directory if you’re starting to log changes like a software repo.
+All notable changes to this project will be documented in this file.  
+This format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and uses Semantic Versioning.
+
+## [0.1.0] – 2025-08-02
+
+```
+Added
+- Finalized and expanded Section 1.0 – Introduction to Fantasy Sports (~1,500+ words).
+- Completed rewrite of Section 1.1 – League Formats & Structures (~2,000+ words).
+- Expanded Section 1.2 – Draft Day Psychology with behavioral frameworks, quote boxes, and real-world examples.
+- Built internal structure for Section 1.3/1.4 integration:
+  - Tiered Draft Boards
+  - Watchlists
+  - Scenario Testing
+  - Pre-Draft Checklists
+- Added visual formatting rules for glossary entries, formula blocks, and story-driven layouts.
+- Created HTML-ready version of today's changelog with embedded `<code>`/`<pre>` blocks.
+```
+```
+### Changed
+- Reassigned Section 1.3 content into Section 1.4 to improve structural and narrative clarity.
+- Updated tone guide across all chapters to follow “Bukowski × Baseball × Behavioral Science”.
+- Improved internal keyword linking strategy (glossary/index/formula references).
+```
+```
+### Deprecated
+- Deprecated the standalone “Strategic Prep” module as a separately labeled Section 1.3.
+  - Content redistributed into live Section 1.4 structure.
+```
+```
+### Removed
+- Removed placeholder sub-section headers from the previous draft of Section 1.3.
+```
+```
+### Fixed
+- Resolved inconsistencies in code block formatting for HTML changelog export.
+- Fixed minor table layout bugs in Section 1.2 draft version.
 ```
